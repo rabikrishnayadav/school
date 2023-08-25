@@ -1,7 +1,7 @@
 <?php
 
 class Home extends Controller{
-    function __construct(){
+    function index(){
         echo "This is home controller";
 
     }
